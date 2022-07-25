@@ -1,0 +1,2 @@
+npm init -y
+npm i truffle openzeppelin-solidity loom-js loom-truffle-provider bn.js axios
